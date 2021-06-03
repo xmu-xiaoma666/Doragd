@@ -11,11 +11,11 @@
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
 <a href="https://github.com/doragd">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=doragd&theme=nightowl&show_icons=true" />
+    <img align="left" style="max-width:50%;"src="https://github-readme-stats.vercel.app/api?username=doragd&theme=nightowl&show_icons=true" />
 </a>
 
 <a href="https://github.com/doragd">
-    <img align="right" style="padding-top:20px;" src="https://github-readme-stats.vercel.app/api/pin/?username=doragd&repo=Chinese-Chatbot-PyTorch-Implementation&theme=tokyonight&show_icons=true" />
+    <img align="right" style="padding-left:0px;" src="https://github-readme-stats.vercel.app/api/pin/?username=doragd&repo=Chinese-Chatbot-PyTorch-Implementation&theme=tokyonight&show_icons=true" />
 </a>
 
 
