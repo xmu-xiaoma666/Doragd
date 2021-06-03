@@ -11,7 +11,7 @@
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
 <a href="https://github.com/doragd">
-    <img align="left" style="max-width:50%;"src="https://github-readme-stats.vercel.app/api?username=doragd&theme=nightowl&show_icons=true" />
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=doragd&theme=nightowl&show_icons=true" />
 </a>
 
 <a href="https://github.com/doragd">
