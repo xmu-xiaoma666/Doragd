@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning NLP.
 - 📫 How to reach me: [Gmail](mailto:guodun.li@gmail.com).
 - 📝 Blogs: [HomePage](https://doragd.github.io) | [Learning Notes](https://www.cnblogs.com/doragd)
-- ⚡ Fun fact: Animation, Coding and all good things in my life.
+- ⚡ Fun fact: Love [animation](https://space.bilibili.com/37310586/bangumi), [coding](https://github.com/doragd), and all good things in my life.
 
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
