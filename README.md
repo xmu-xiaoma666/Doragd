@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Gordon Lee ✨.
+# Hi there 👋, I'm Gordon Lee ✨.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=doragd.doragd)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -8,10 +8,14 @@
 - 📝 Blogs: [HomePage](https://doragd.github.io) | [Learning Notes](https://www.cnblogs.com/doragd)
 - ⚡ Fun fact: Animation, Coding and all good things in my life.
 
-## &#x1f4c8; GitHub Stats
-![Doragd's GitHub stats](https://github-readme-stats.vercel.app/api?username=doragd&theme=nightowl&show_icons=true)
+## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
+
+<a href="https://github.com/doragd">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=doragd&theme=nightowl&show_icons=true" />
+</a>
+
+<a href="https://github.com/doragd">
+    <img align="right" style="padding-top:20px;" src="https://github-readme-stats.vercel.app/api/pin/?username=doragd&repo=Chinese-Chatbot-PyTorch-Implementation&theme=tokyonight&show_icons=true" />
+</a>
 
 
-
-## 🗂️ Highlight Projects and Langs Stats
-![Doragd's GitHub Projects](https://github-readme-stats.vercel.app/api/pin/?username=doragd&repo=Chinese-Chatbot-PyTorch-Implementation&theme=tokyonight&show_icons=true)
