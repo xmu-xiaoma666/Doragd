@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/doragd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doragd&repo=Chinese-Chatbot-PyTorch-Implementation&theme=tokyonight&show_icons=true" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=doragd&repo=Chinese-Chatbot-PyTorch-Implementation&theme=tokyonight&show_icons=true" />
 </a>
 
 
