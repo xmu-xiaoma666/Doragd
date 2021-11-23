@@ -7,6 +7,8 @@
 - 📫 How to reach me: [Gmail](mailto:guodun.li@gmail.com).
 - 📝 Blogs: [HomePage](https://doragd.github.io) | [Learning Notes](https://www.cnblogs.com/doragd)
 - ⚡ Fun fact: Love [animation](https://space.bilibili.com/37310586/bangumi), [coding](https://github.com/doragd), and all good things in my life.
+- 🙈 Publications: 
+    - [[ACMMM2021] Similar Scenes Arouse Similar Emotions: Parallel Data Augmentation for Stylized Image Captioning](https://dl.acm.org/doi/10.1145/3474085.3475662)
 
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
