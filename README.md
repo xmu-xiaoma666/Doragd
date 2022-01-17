@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=doragd.doragd)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-- ⚡ News: Actively seeking 2022 summer intern.
+- ⚡ News: **Actively seeking 2022 summer intern.**
 - 🌱 I’m currently learning NLP.
 - 📫 How to reach me: [Gmail](mailto:guodun.li@gmail.com) | [ZhiHu](https://www.zhihu.com/people/gordon-lee)
 - ⚡ Fun fact: Love [animation](https://space.bilibili.com/37310586/bangumi), [coding](https://github.com/doragd), and all good things in my life.
