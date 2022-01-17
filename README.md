@@ -16,10 +16,10 @@
 - 📝 Writing in ZhiHu:
     - [自然语言处理学习笔记](https://www.zhihu.com/column/doragd)
     - [多语言论文日读记录](https://www.zhihu.com/column/c_1421961460158861312) 
-- 📝 Highlight answers in ZhiHu:
+<!-- - 📝 Highlight answers in ZhiHu:
     - [nlp中的prompt learning 有哪些可能的天生的缺陷？目前有什么样的方法来解决这样的缺陷？57 stars](https://www.zhihu.com/question/508658141/answer/2298447936)
     - [自监督学习研究为什么纠结于负样本? 103 stars](https://www.zhihu.com/question/481582082/answer/2296670617)
-    - [基于对比学习(Contrastive Learning)的文本表示模型【为什么】能学到语义【相似】度？46 stars](https://www.zhihu.com/question/480187938/answer/2095359870)
+    - [基于对比学习(Contrastive Learning)的文本表示模型【为什么】能学到语义【相似】度？46 stars](https://www.zhihu.com/question/480187938/answer/2095359870) -->
     
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
